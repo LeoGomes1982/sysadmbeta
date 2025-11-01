@@ -1,0 +1,4 @@
+Deployment trigger: 2025-11-01T01:15:00Z
+This file forces a fresh deployment with the corrected package.json
+Version: 0.1.5
+Status: Package.json verified clean - no "use client" dependency
